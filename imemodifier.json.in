@@ -1,0 +1,11 @@
+﻿{
+    \"Name\" : \"IMEModifier\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"John Kin\",
+    \"Copyright\" : \"(C) John Kin\",
+    \"License\" : \"free edition\",
+    \"Description\" : \"Automatically switch your IME according to the current cursor position\",
+    \"Url\" : \"\",
+    $$dependencyList
+}

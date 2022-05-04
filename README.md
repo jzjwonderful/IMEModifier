@@ -1,4 +1,4 @@
-# InputMethodModifier
+# IMEModifier
 
 ## How to Build
 

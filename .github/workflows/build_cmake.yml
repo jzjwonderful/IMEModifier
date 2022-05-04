@@ -3,7 +3,7 @@ name: Build plugin
 on: [push]
 
 env:
-  PLUGIN_NAME: InputMethodModifier
+  PLUGIN_NAME: IMEModifier
   QT_VERSION: 6.2.3
   QT_CREATOR_VERSION: 7.0.0-rc1
   QT_CREATOR_SNAPSHOT: NO
