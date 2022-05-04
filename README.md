@@ -1,5 +1,8 @@
 # IMEModifier
 
+## What's this ?
+A QtCreator-Plugin that automatically switch your IME according to the content of current line.
+
 ## How to Build
 
 Create a build directory and run
